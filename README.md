@@ -1,3 +1,8 @@
+### outdated
+### for testing only
+### no warranty
+---------------------------
+
 # WeTTY = Web + TTY.
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
